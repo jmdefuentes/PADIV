@@ -16,7 +16,7 @@ Original scripts, NS files and driving scenario (from VAAD paper): Zhengming Li 
 
 Adaptations for PADIV in scripts and NS files (marked with UC3M) and Manhattan driving scenario: Jose Maria de Fuentes (jfuentes at inf.uc3m.es), Lorena Gonzalez (lgmanzan at inf.uc3m.es)
 
-PADIV paper: Lorena Gonzalez (lgmanzan at inf.uc3m.es), Jose Maria de Fuentes (jfuentes at inf.uc3m.es), and Jetzabel Serna (Jetzabel.Serna@m-chair.de)
+PADIV paper: Lorena Gonzalez (lgmanzan at inf.uc3m.es), Jose Maria de Fuentes (jfuentes at inf.uc3m.es), and Jetzabel Serna (Jetzabel.Serna at m-chair.de)
 
 INSTALLATION INSTRUCTIONS
 ---------------------------
